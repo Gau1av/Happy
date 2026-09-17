@@ -682,7 +682,7 @@ export default function App() {
             justifyContent: 'center',
             gap: '6px'
           }}>
-            <Sparkles size={16} color="#f43f5e" /> Made with endless love for Shreya by your sweet boyfriend 💖
+            <Sparkles size={16} color="#f43f5e" /> Made with endless love for Shreya by your sweet boyfriend Gaurav Kumar 💖
           </div>
         </div>
       </div>
